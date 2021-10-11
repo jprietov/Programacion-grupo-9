@@ -1,1 +1,3 @@
-Hola mi nombre es Paola Bello tengo años d¿soy de la ciudad de Bogotá, Me gusta la danza y elgí esta carrera porque me quiero enfocar en biomedica 
+#Presentacion
+
+Mi nombre es Juan Pablo Prieto Vergara, tengo 21 años y soy de la ciudad de Zipaquira. Me gusta todo aquello relacionado al arte, la musica y tecnologia. Axtualmente es
