@@ -24,4 +24,7 @@
 22. Si son mas de las 8:50 a.m encender PC
 23. Sacar cuaderno y esfero  
 24. Entrar a la clase
+
+**Diagrama de Flujo**
+
 [![Programacion-Diagrama-de-flujo.jpg](https://i.postimg.cc/y8HKRsCK/Programacion-Diagrama-de-flujo.jpg)](https://postimg.cc/hfpNWFGZ)
