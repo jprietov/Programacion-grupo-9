@@ -1,0 +1,1 @@
+print("hello world") #imprimir la oracion dentro de las comillas
